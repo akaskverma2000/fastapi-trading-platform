@@ -59,7 +59,7 @@ I have created a enum class. So that user can easily select the order in which t
 ![image](https://user-images.githubusercontent.com/63094947/177134799-48ae8b00-8f30-4fa1-88f7-f309e3dc55a2.png)
 
 ## Dependencies
-<code>uvicorn</code> - for the server that loads and serves your application.
-<code>fastapi_pagination</code> - to add pagination functionality.
+* <code>uvicorn</code> - for the server that loads and serves your application.
+* <code>fastapi_pagination</code> - to add pagination functionality.
 
 
