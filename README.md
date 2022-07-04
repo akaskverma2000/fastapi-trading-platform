@@ -55,4 +55,11 @@ For this, I have used inbuilt library given in the fastapi. They have created a 
 ## Sorting Functionality 
 I have created a enum class. So that user can easily select the order in which they want to sort the data. I have used `/sorted/` library given in the python to sort the list of dictionary according to the parameter given from the user. 
 
-![image](https://user-images.githubusercontent.com/63094947/177133273-8de9111f-5050-4c2e-8252-791322302d00.png)
+![image](https://user-images.githubusercontent.com/63094947/177134888-7815aa42-a46a-49a1-ab26-9a569388abca.png)
+![image](https://user-images.githubusercontent.com/63094947/177134799-48ae8b00-8f30-4fa1-88f7-f309e3dc55a2.png)
+
+## Dependencies
+<code>uvicorn</code> - for the server that loads and serves your application.
+<code>fastapi_pagination</code> - to add pagination functionality.
+
+
