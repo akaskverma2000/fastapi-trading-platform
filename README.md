@@ -11,7 +11,6 @@ $ pipenv install fastapi-pagination
 ```
 
 ### Run it
-
 Run the server with:
 
 ```console
@@ -29,13 +28,11 @@ I'm using FASTAPI Swagger documentation to demonstrate the rest API I have creat
 
 
 ### Fetch All Trades
-
 I have added the endpoint URL `/trades/` to get all the trades stored in the database. I have return the array of dictonary where I have stored the details of a trade.
 
 ![image](https://user-images.githubusercontent.com/63094947/177128093-ceaebb97-e50e-43bd-b78e-03c7d360d8d2.png)
 
 ### Fetch A Single Trade by Trade Id
-
 I have added the endpoint URL `/trades/{trade_id}` to get a trade which is equal to the Trade ID stored in the Trade Database. From this, I have run a for-loop to get the trade which has the same trade id which given in the query parameter and return that particular trade in the form of dictionary.
 
 ![image](https://user-images.githubusercontent.com/63094947/177128911-7ab3e5a9-07fa-4d86-89d5-3e26f026d67f.png)
