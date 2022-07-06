@@ -4,11 +4,9 @@ Descrption - I created this REST API for SteelEye's technical test to retrieve a
 
 ## Installation
 ```console
-$ pip install pipenv
-$ pipenv shell --python 3.8
-$ pipenv install fastapi
-$ pipenv install uvicorn
-$ pipenv install fastapi-pagination
+$ pip install fastapi
+$ pip install uvicorn
+$ pip install fastapi-pagination
 ```
 
 ## Run it
