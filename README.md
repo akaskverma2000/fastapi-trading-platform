@@ -4,6 +4,7 @@ Descrption - I created this REST API for SteelEye's technical test to retrieve a
 
 ## Installation
 ```console
+$ pip install pipenv
 $ pipenv shell --python 3.8
 $ pipenv install fastapi==0.68.1
 $ pipenv install uvicorn==0.15.0
